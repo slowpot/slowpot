@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&width=435&size=30&lines=Hi+there.;It's+slowpot.;A ZeppOS developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&width=435&size=30&lines=Hi+there.;It's+slowpot.;A+ZeppOS+developer.)](https://git.io/typing-svg)
 
 ---
 
