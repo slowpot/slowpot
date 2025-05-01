@@ -29,14 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowpot&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
-## 🔥 Contribution Heatmap
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slowpot&theme=github-dark)](https://git.io/streak-stats)
-
-</div>
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
