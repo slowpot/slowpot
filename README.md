@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&width=435&lines=Hi+there!+👋;I'm+slowpot;ZeppOS+Developer;Open+Source+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&width=435&lines=Hi+there!+👋;I'm+slowpot;ZeppOS+Developer;Open+Source+Enthusiast" alt="Typing animation" />
 </h1>
 
 <!-- Social Badges -->
@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/github/stars/slowpot?style=for-the-badge&logo=github&logoColor=white&color=FFD700" alt="GitHub stars" />
   </a>
   <a href="https://wakatime.com/@slowpot">
-    <img src="https://wakatime.com/badge/user/018c4d2a-9f5f-4f2e-8c1a-9f5f4f2e8c1a.svg?style=for-the-badge" alt="wakatime" />
+    <img src="https://wakatime.com/badge/@slowpot.svg?style=for-the-badge" alt="wakatime" />
   </a>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slowpot&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=slowpot.slowpot&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
 </div>
@@ -131,7 +131,7 @@ const slowpot = {
 ### 🙏 Thank You for Visiting!
 
 <p>
-  <img src="https://profile-counter.glitch.me/slowpot/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=slowpot.slowpot" alt="Visitor Count" />
 </p>
 
 <p>
