@@ -13,9 +13,6 @@
   <a href="https://github.com/slowpot?tab=repositories">
     <img src="https://img.shields.io/github/stars/slowpot?style=for-the-badge&logo=github&logoColor=white&color=FFD700" alt="GitHub stars" />
   </a>
-  <a href="https://wakatime.com/@slowpot">
-    <img src="https://wakatime.com/badge/@slowpot.svg?style=for-the-badge" alt="wakatime" />
-  </a>
 </p>
 
 <!-- Profile Views -->
@@ -76,6 +73,13 @@ const slowpot = {
 ![WeChat Mini Program](https://img.shields.io/badge/-Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 </div>
+
+---
+
+## ⏰ WakaTime Weekly Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
