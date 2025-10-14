@@ -81,13 +81,13 @@ const slowpot = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 12 October 2025
+From: 06 October 2025 - To: 13 October 2025
 
-Total Time: 12 hrs 44 mins
+Total Time: 10 hrs 58 mins
 
-Python     10 hrs 12 mins  ████████████████████░░░░░   80.11 %
-Markdown   1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-TOML       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Python     8 hrs 43 mins   ████████████████████░░░░░   79.49 %
+Markdown   1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+TOML       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
